@@ -1,0 +1,4 @@
+llama-index: For building the RAG system.
+transformers: For loading the Llama 3.1 model.
+faiss: For efficient vector storage and search.
+numpy: For numerical operations.
